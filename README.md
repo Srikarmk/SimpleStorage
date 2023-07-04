@@ -1,6 +1,6 @@
 # SimpleStorage
 
-### Topics Covered 
+### Topics Learnt
 
 - Solidity Version and Contract
 - Variables and Datatypes
